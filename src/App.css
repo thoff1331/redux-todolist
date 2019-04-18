@@ -1,0 +1,31 @@
+/* body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ykJBUTuxHuF0hiSrIP_6rQpjnzQVkNbtCcErGL5Tal4zz10KPQ");
+  background-size: cover;
+}
+
+.form {
+  border: 1px solid black;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-self: flex-start;
+  color: white;
+  flex-direction: column;
+}
+.delete {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+} */
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
